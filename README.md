@@ -1,5 +1,5 @@
 
-<img src="Github-banner bg.png" alt="GitHub Banner" width="100%" />
+<img src="Github-banner bg.png" alt="GitHub Banner" width="100vw" height="100vh" />
 
 
 ## **👋 Hi, I'm ABDIRIZAK MOALIM!**  
