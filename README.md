@@ -281,8 +281,7 @@ I'm a dedicated **full-stack developer** with expertise in **WordPress developme
 [![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 </details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
 
 ----
 	
