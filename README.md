@@ -1,10 +1,6 @@
 
+<img src="Github-banner bg.png" alt="GitHub Banner" width="100%" />
 
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
-Here's an enhanced version of your professional GitHub profile with **five additional sections** to make it even more engaging and impressive! 🚀  
-
----
 
 ## **👋 Hi, I'm ABDIRIZAK MOALIM!**  
 🚀 **Full-Stack Developer | WordPress Expert | Open-Source Enthusiast**  
@@ -67,8 +63,8 @@ Sunday                   2122 commits        ████░░░░░░░�
 ## **📬 Let's Connect!**  
 💼 **GitHub:** [ABDIRIZAK-30](https://github.com/ABDIRIZAK-30)  
 🌐 **Portfolio:** [Your Portfolio Link Here]  
-📧 **Email:** [Your Email Here]  
-💬 **LinkedIn:** [Your LinkedIn Here] (if available)  
+📧 **Email:** [Info@heykaldesigns.com]
+💬 **LinkedIn:** [Your LinkedIn Here]
 
 
 ----
