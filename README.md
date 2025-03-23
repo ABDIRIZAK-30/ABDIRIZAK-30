@@ -32,6 +32,7 @@ I'm a dedicated **full-stack developer** with expertise in **WordPress developme
 
 </div>
 
+-----------
 
 [![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
 
