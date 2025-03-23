@@ -359,3 +359,6 @@ I'm a dedicated **full-stack developer** with expertise in **WordPress developme
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/ABDIRIZAK-30=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
