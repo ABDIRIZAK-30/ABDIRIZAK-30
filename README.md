@@ -83,9 +83,8 @@ Sunday                   2122 commits        ████░░░░░░░�
 
 ## **📬 Let's Connect!**  
 💼 **GitHub:** [ABDIRIZAK-30](https://github.com/ABDIRIZAK-30)  
-🌐 **Portfolio:** [Your Portfolio Link Here]  
 📧 **Email:** Info@heykaldesigns.com
-💬 **LinkedIn:** [Your LinkedIn Here]
+
 
 
 
