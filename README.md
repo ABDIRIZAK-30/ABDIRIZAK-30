@@ -8,6 +8,13 @@
 I'm a dedicated **full-stack developer** with expertise in **WordPress development** and custom web solutions. With over **5 years of experience**, I specialize in crafting dynamic, user-friendly, and scalable web applications. My passion lies in writing clean, efficient code and solving real-world problems through technology.  
 
 
+Hi, I'm Welton, a Electronics student passionate about development and entrepreneurship.
+
+- :books: I’m currently learning C, Typescript, Node.js, React and React Native.
+- :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
+- :pushpin: Interests: UX, UI Design, Video Editing, Motion Graphics.
+
+
  ## 🛠️ &nbsp;My Tech Stacks
 
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
