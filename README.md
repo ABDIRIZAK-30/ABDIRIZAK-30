@@ -5,7 +5,7 @@
 ## **👋 Hi, I'm ABDIRIZAK MOALIM!**  
 🚀 **Full-Stack Developer | WordPress Expert | Open-Source Enthusiast**  
 
-I'm a dedicated **full-stack developer** with expertise in **WordPress development** and custom web solutions. With over **5 years of experience**, I specialize in crafting dynamic, user-friendly, and scalable web applications. My passion lies in writing clean, efficient code and solving real-world problems through technology.  
+I'm a dedicated full-stack developer with expertise in WordPress development and custom web solutions. With over five years of experience, I specialize in crafting dynamic, user-friendly, and scalable web applications. My passion lies in writing clean, efficient code and solving real-world problems through technology.  
 
 
  ## 🛠️ &nbsp;My Tech Stacks
@@ -83,9 +83,8 @@ Sunday                   2122 commits        ████░░░░░░░�
 
 ## **📬 Let's Connect!**  
 💼 **GitHub:** [ABDIRIZAK-30](https://github.com/ABDIRIZAK-30)  
-🌐 **Portfolio:** [Your Portfolio Link Here]  
 📧 **Email:** Info@heykaldesigns.com
-💬 **LinkedIn:** [Your LinkedIn Here]
+
 
 
 
