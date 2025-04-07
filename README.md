@@ -1,5 +1,5 @@
 
-<img src="/ABDIRIZAK-30/Navy Blue Geometric Banne.png" alt="GitHub Banner" width="100%"  />
+<img src="/Navy Blue Geometric Banne.png" width="100%">
 
 
 ## **👋 Hi, I'm ABDIRIZAK MOALIM!**  
