@@ -1,5 +1,5 @@
 
-<img src="/Navy Blue Geometric Banne.png" width="100%">
+<img src="/2.png" width="100%">
 
 
 ## **👋 Hi, I'm ABDIRIZAK MOALIM!**  
