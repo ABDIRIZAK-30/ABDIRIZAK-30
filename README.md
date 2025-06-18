@@ -34,7 +34,7 @@ I'm a dedicated full-stack developer with expertise in WordPress development and
 
 -----------
 
-[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
+[![wakatime](https://wakatime.com/badge/user/0b4efaae-8ddd-4b68-98fa-72a11cdb6457.svg)](https://wakatime.com/@0b4efaae-8ddd-4b68-98fa-72a11cdb6457)
 
 **I'm a Night 🦉** 
 
