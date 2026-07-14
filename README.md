@@ -3,7 +3,7 @@
 
 
 ## **👋 Hi, I'm ABDIRIZAK MOALIM!**  
-🚀 **FOUNDER | Full-Stack Developer | SAAS BUILDER**  
+ **FOUNDER | Full-Stack Developer | SAAS BUILDER**  
 
 I'm a dedicated full-stack developer with expertise in WordPress development and custom web solutions. With over five years of experience, I specialize in crafting dynamic, user-friendly, and scalable web applications. My passion lies in writing clean, efficient code and solving real-world problems through technology.  
 
