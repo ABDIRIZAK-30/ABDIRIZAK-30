@@ -1,5 +1,5 @@
 
-<img src="/2.png" width="100%">
+<img src="/cover.png" width="100%">
 
 
 ## **👋 Hi, I'm ABDIRIZAK MOALIM!**  
