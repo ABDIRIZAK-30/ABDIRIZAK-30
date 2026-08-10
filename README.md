@@ -56,7 +56,7 @@ I'm a dedicated full-stack developer with expertise in WordPress development and
 
 ## **📬 Let's Connect!**  
 💼 **GitHub:** [ABDIRIZAK-30](https://github.com/ABDIRIZAK-30)  
-📧 **Email:** admin@rizaklabs.com
+📧 **Email:** rizaklabsagency@gmail.com
 
 
 
