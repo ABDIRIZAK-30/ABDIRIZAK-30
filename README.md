@@ -192,6 +192,13 @@ Scalable data structures
 
 <br>
 
+<br>
+
+## 📊 Development Activity
+
+![WakaTime](https://wakatime.com/badge/user/0b4efaae-8ddd-4b68-98fa-72a11cdb6457.svg)
+
+<br>
 
 
 <!-- ===================== RIZAKLABS ===================== -->
