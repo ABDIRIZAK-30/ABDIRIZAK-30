@@ -55,58 +55,10 @@ My goal is simple:
 <br>
 
 
-
-<!-- ===================== WHAT I BUILD ===================== -->
-
-## 🧩 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 SaaS Products
-
-Building web-based products designed around real business problems, with scalable architecture and user-focused experiences.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 Education Technology
-
-Developing digital platforms that help schools and educational organizations manage their operations more efficiently.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Web Applications
-
-Modern, responsive applications with clean interfaces, structured code, and reliable backend systems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏢 Business Solutions
-
-Custom digital systems designed around specific workflows, business requirements, and operational needs.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-
-
 <!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Technology Stack
 
-### 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
@@ -115,28 +67,13 @@ Custom digital systems designed around specific workflows, business requirements
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
-</p>
-
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933">
+    <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933">
   <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=FFFFFF">
-</p>
-
-### 🗄️ Databases & Data
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+    <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1">
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1">
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248">
-</p>
-
-### 🧰 Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
+    <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED">
   <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
@@ -148,49 +85,6 @@ Custom digital systems designed around specific workflows, business requirements
 <br>
 
 
-
-<!-- ===================== ENGINEERING ===================== -->
-
-## 🏗️ Engineering
-
-<table>
-<tr>
-<td width="full" align="left">
-
-### 🖥️ Frontend
-
-Modern interfaces  
-Responsive design  
-Reusable components  
-User-focused UX
-
-</td>
-
-<td width="full" align="left">
-
-### ⚙️ Backend
-
-REST APIs  
-Business logic  
-Authentication  
-Server-side systems
-
-</td>
-
-<td width="full" align="left">
-
-### 🗄️ Data
-
-Database design  
-Data modeling  
-CRUD systems  
-Scalable data structures
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <br>
 
@@ -214,7 +108,6 @@ reliable technology.
 > **Ideas → Software → Real-World Impact**
 
 <br>
-
 
 
 <!-- ===================== CURRENT FOCUS ===================== -->
