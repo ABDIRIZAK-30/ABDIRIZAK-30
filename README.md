@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I'm ABDIRIZAK MOALIM</h1>
 
 <p align="center">
-  <strong>FOUNDER • FULL-STACK DEVELOPER • SAAS BUILDER</strong>
+  <strong>FOUNDER  -   FULL-STACK DEVELOPER  -   SAAS BUILDER</strong>
 </p>
 
 <p align="center">
@@ -18,26 +18,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ABDIRIZAK-30">
-    <img src="https://img.shields.io/badge/GitHub-ABDIRIZAK--30-0D1117?style=for-the-badge&logo=github">
-  </a>
   <a href="mailto:rizaklabsagency@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Contact Email-0D1117?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
 <br>
-
-
-
 <!-- ===================== ABOUT ===================== -->
-
-## 🚀 About Me
-
-I'm a **Full-Stack Developer, SaaS Builder, and Founder of RizakLabs** focused on turning ideas into practical digital products.
-
-I work across the full development lifecycle — from designing interfaces and building frontend applications to developing backend systems, APIs, databases, and deployment workflows.
-
 My goal is simple:
 
 > **Build useful software that solves real problems.**
@@ -53,16 +40,10 @@ My goal is simple:
 - 📈 Product development & scalable solutions
 
 <br>
-
-
 <!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Technology Stack
-
-
 <p>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -79,22 +60,12 @@ My goal is simple:
   <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624">
 </p>
-
-
-
 <br>
-
-
-
 <br>
 
 ## 📊 Development Activity
-
 ![WakaTime](https://wakatime.com/badge/user/0b4efaae-8ddd-4b68-98fa-72a11cdb6457.svg)
-
 <br>
-
-
 <!-- ===================== RIZAKLABS ===================== -->
 
 ## 🏢 RizakLabs
@@ -108,20 +79,3 @@ reliable technology.
 > **Ideas → Software → Real-World Impact**
 
 <br>
-
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## 🎯 Current Focus
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   🚀 SaaS Development                                        │
-│   🧩 Full-Stack Applications                                 │
-│   🎓 Education Technology                                    │
-│   ⚙️ Backend Architecture & APIs                             │
-│   🗄️ Database Systems                                        │
-│   🏢 Business Automation                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
